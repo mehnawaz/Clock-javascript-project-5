@@ -1,0 +1,23 @@
+h1{
+    /* background: aqua; */
+    color: green;
+    margin: 80px;
+    margin-bottom: 40px;
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#time{
+    color: rgb(167, 37, 199);
+    text-align: center;
+    font-size: 40px;
+    /* background-color: greenyellow; */
+    border: 2px solid yellow;
+
+}
+body{
+    /* background: rgb(146, 109, 146); */
+    background: url(img/pexels-pixabay-255464.jpg);
+}
